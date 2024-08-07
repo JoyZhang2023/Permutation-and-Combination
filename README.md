@@ -12,3 +12,5 @@ Create an application that calculates permutations and combinations based on use
 - The application can be implemented as either a web application or a terminal application.
 
 ## Video Demo
+https://github.com/user-attachments/assets/74f78b45-7dd7-4b7e-8c37-a9d66963e72d
+
